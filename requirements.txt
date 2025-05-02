@@ -1,0 +1,4 @@
+streamlit
+azure-storage-blob
+pymssql
+dotenv
